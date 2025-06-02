@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 - Python 3.x
 - Pygame libary(for graphics)
-- Amazon Q CLI (for deployment)
+- Amazon Q CLI
 
 ## 📦 Installation
 ```bash
@@ -24,4 +24,13 @@ cd snake-and-ladder-game
 pip install pygame 
 
 # Run the game
-python snake_and_ladder_game.py
+python3 snake_and_ladder_game.py
+```
+## 🎮 How to Play
+1) Players take turns clicking "ROLL DICE" or pressing SPACE
+2) Move automatically based on dice roll
+3) Land on ladders to climb up
+4) Avoid snakes or slide down
+5) First to reach 100 wins!
+## License
+This project is licensed under the MIT License see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
