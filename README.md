@@ -24,4 +24,4 @@ cd snake-and-ladder-game
 pip install pygame 
 
 # Run the game
-python snake_ladder.py
+python snake_and_ladder_game.py
