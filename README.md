@@ -32,5 +32,8 @@ python3 snake_and_ladder_game.py
 3) Land on ladders to climb up
 4) Avoid snakes or slide down
 5) First to reach 100 wins!
+
+## Youtube Video Link: https://youtu.be/gSSxdtC3xP0
+ 
 ## License
 This project is licensed under the MIT License see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
